@@ -1,4 +1,4 @@
-# 004-DropNavIntro
+# DropNavIntro
 
 A modern, responsive web application built with React, featuring a navigation bar with dropdown menus and an engaging hero section designed to promote remote work productivity.
 
